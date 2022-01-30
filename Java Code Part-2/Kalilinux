@@ -1,0 +1,10 @@
+Failed to open a session for the virtual machine Kali-Linux-2019.2-vbox-amd64.
+
+The native API dll was not found (C:\Windows\system32\WinHvPlatform.dll) (VERR_NEM_NOT_AVAILABLE).
+
+VT-x is disabled in the BIOS for all CPU modes (VERR_VMX_MSR_ALL_VMX_DISABLED).
+
+Result Code: E_FAIL (0x80004005)
+Component: ConsoleWrap
+Interface: IConsole {872da645-4a9b-1727-bee2-5585105b9eed}
+
